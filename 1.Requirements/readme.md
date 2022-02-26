@@ -36,7 +36,7 @@ used Wi-Fi system for the establishment of home automation.
   |ID|DESCRIPTION|
   |:--:|:-------:|
   |HLR1|System shall control Fan,Light by alexa or google assistant|
-  |HLR2||There shall be a mobile phone to display the ON and OFF option we press|
+  |HLR2|There shall be a mobile phone to display the ON and OFF option we press|
   |HLR3|System shall detect temperaure|
 # LOW LEVEL REQUIREMENTS
   |ID|DESCRIPTION|
