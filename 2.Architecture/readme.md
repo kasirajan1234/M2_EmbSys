@@ -27,4 +27,5 @@ commands.
 Raspberry Pi) to third-party apps or to Amazon Alexa and Google Home. The API can
 be used to retrieve device logs, locate devices, update devices, and obtain account
 information.
-# 
+# Rectifier Unit
+  A rectifier is an electronic device that converts an alternating current into a direct current by using one or more P-N junction diodes. A diode behaves as a one-way valve that allows current to flow in a single direction. This process is known as rectification.
