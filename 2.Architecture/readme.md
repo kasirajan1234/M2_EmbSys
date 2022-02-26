@@ -29,3 +29,7 @@ be used to retrieve device logs, locate devices, update devices, and obtain acco
 information.
 # Rectifier Unit
   A rectifier is an electronic device that converts an alternating current into a direct current by using one or more P-N junction diodes. A diode behaves as a one-way valve that allows current to flow in a single direction. This process is known as rectification.
+# FLOW CHART
+  ![Flow chart](https://user-images.githubusercontent.com/98865218/155834875-61151906-3f5a-444f-b6b5-9289926aac73.png)
+# PROJECT LAYOUT
+  ![LAYOUT](https://user-images.githubusercontent.com/98865218/155836893-0c80143b-98ba-4646-8620-8dd269f2476b.png)
