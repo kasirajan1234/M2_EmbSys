@@ -33,3 +33,6 @@ information.
   ![Flow chart](https://user-images.githubusercontent.com/98865218/155834875-61151906-3f5a-444f-b6b5-9289926aac73.png)
 # PROJECT LAYOUT
   ![LAYOUT](https://user-images.githubusercontent.com/98865218/155836893-0c80143b-98ba-4646-8620-8dd269f2476b.png)
+# SIMULIDE SOFTWARE
+![simulide](https://user-images.githubusercontent.com/98865218/157256586-16ecd69b-0e18-4b64-8fea-9500d42a57e5.png)
+
