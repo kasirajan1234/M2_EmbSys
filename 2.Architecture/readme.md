@@ -34,5 +34,5 @@ information.
 # PROJECT LAYOUT
   ![LAYOUT](https://user-images.githubusercontent.com/98865218/155836893-0c80143b-98ba-4646-8620-8dd269f2476b.png)
 # SIMULIDE SOFTWARE
-![simulide](https://user-images.githubusercontent.com/98865218/157256586-16ecd69b-0e18-4b64-8fea-9500d42a57e5.png)
+  ![simulide](https://user-images.githubusercontent.com/98865218/157264058-9c75a57f-354f-401c-adff-5eafb840befd.png)
 
